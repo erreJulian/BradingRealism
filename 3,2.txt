@@ -1,0 +1,7 @@
+Puedo elegir cualquier cuerpo para definir el estandar del movimiento inercial y después encontrar "funciones de fuerzas" que serán los movimietnos de los cuerpos en movimiento no inercial. 
+
+Esto no hace que la 1ra ley no tenga contenido: no es nada trivial que pueda encontrar un conjunto de marcos inerciales, combinado con uan manera de atribuir fuerza tal que los cuerpos que se muevan uniformemente se consideren sin fuerza y el resto siguiendo las reglas de interacción mutua.
+
+Reconoce la circuarlidad, pero el hecho que podamos hacer algo así no es para nada trivial y es un hecho sobre el mundo.
+
+el mundo podría haber sido de tal manera en la que no podríamos haber hecho del todo
